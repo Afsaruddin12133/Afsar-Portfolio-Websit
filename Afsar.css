@@ -10,6 +10,7 @@ body{
 .containar{
  width: 50%;
  padding: 20px;
+ text-align: left;
 }
 .flexgivole{
     display: flex;
@@ -18,10 +19,14 @@ body{
 }
 img{
     width: 100%;
+    height: 65%;
+    padding-top: 100px;
 }
 h1{
     font-size: 50px;
-
+}
+p{
+    padding-bottom: 50px;
 }
 h3{
     font-size: 25px;
