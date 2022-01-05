@@ -77,22 +77,21 @@ h3{
 }
 #padding-bootom{
     padding-top: 35px;
-    padding-bottom: 270px;
+    padding-bottom: 150px;
 }
 .chercel{
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    background-position-y: 20px;
+    background-position-y: 565px;
 }
 .flexgivolee{
     display: flex;
 }
-#blac-color{
-    color: black;
+#black-color{
+    color: orange;
 }
 .button{
-    padding: 5px;
+    padding: 8px;
     font-size: 15px;
-
 }
