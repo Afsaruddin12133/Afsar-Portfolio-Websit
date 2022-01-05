@@ -72,7 +72,7 @@ h3{
     background-color: tomato;
 }
 .Git{
-    width: 95%;
+    width: 100%;
     background-color: rgb(133, 0, 221);
 }
 #padding-bootom{
@@ -86,4 +86,7 @@ h3{
 }
 .flexgivolee{
     display: flex;
+}
+.down{
+  padding-bottom: 80px;
 }
