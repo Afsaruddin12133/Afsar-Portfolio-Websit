@@ -30,6 +30,13 @@ p{
 h3{
     font-size: 25px;
 }
+.box-showdo{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 60px;
+    margin-bottom: 100px;
+    text-align: center;
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(#FA705B, tomato);
@@ -94,4 +101,8 @@ h3{
 .button{
     padding: 8px;
     font-size: 15px;
+}
+footer{
+    text-align: center;
+    color: gray;
 }
