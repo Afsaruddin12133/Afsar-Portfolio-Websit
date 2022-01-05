@@ -18,9 +18,8 @@ body{
     background-repeat: no-repeat;
 }
 img{
-    width: 105%;
-    height: 45%;
-    padding-top: 70px;
+    width: 100%;
+    padding-top: 50px;
 }
 h1{
     font-size: 50px;
@@ -37,6 +36,54 @@ h3{
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
-    
-   
+}
+.stick{
+    width: 100%;
+    background-color: #ddd;
+}
+.skills{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.html{
+    width: 95%;
+    background-color: #04AA6D;
+}
+.css{
+    width: 90%;
+    background-color: red;
+}
+.Boostarp{
+    width: 85%;
+    background-color: purple;
+}
+.javascript{
+    width: 90%;
+    background-color: skyblue;
+}
+.react{
+    width: 85%;
+    background-color: slateblue;
+}
+.Mongo{
+    width: 90%;
+    background-color: tomato;
+}
+.Git{
+    width: 95%;
+    background-color: rgb(133, 0, 221);
+}
+#padding-bootom{
+    padding-top: 35px;
+}
+.chercel{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 20px;
+}
+.flexgivolee{
+    display: flex;
 }
